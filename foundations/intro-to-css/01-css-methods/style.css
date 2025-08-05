@@ -1,0 +1,10 @@
+body{
+    font-size: 100%; /*Elemts will have same size in all browsers*/
+}
+div{
+    background-color: red;
+    color: white;
+    font-family: serif;
+    font-size: 3em;
+    text-align: center;
+}
